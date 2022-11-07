@@ -25,7 +25,7 @@ tvBrand.forEach((item)=>{
 });
 
 //- 3b.
-//- input: Deze opdracht met Nova bekeken. Ik begreep niet wat de bedoeling
+//- input: Deze opdracht met Nova bekeken. Ik begreep niet wat de bedoeling was. Vond de opdracht omschrijving te vaag waardoor ik er niet uitkwam.
 //- output:
 //- stappenplan:
 //- loggen: console.log
