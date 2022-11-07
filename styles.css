@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.sold {
+    color: green;
+    font-size: xxx-large;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.bought {
+    color: blue;
+    font-size: xxx-large;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.sell {
+    color: red;
+    font-size: xxx-large;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+ul {
+    padding-left: 20px;
+    padding-top: 20px;
+}
